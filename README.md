@@ -1,4 +1,4 @@
 # Blazor Maui App
 
-.NET MAUI + Blazor Hybrid Tutorial for Beginners - Build mobile, desktop, & web apps with C#
+.NET MAUI + Blazor Hybrid  - Build mobile, desktop, & web apps with C#
 
